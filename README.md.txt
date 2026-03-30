@@ -1,0 +1,1 @@
+Vercel公開手順:\n1. このzipを解凍\n2. Vercelにログイン\n3. Add New -> Project -> Upload を選ぶ\n4. 解凍したフォルダをアップロード\n5. Framework Presetは Other のままで Deploy\n
